@@ -1,0 +1,2 @@
+# SIPP-Sales-Performance-Analysis-Power-BI-Dashboard
+My first freelance project, SIPP Sales Performance Analysis, is a powerful dashboard designed to analyze sales performance and provide valuable business insights. One of the key components of the project is the analyzing target with achievements, built using Power BI, to give a visually appealing and easy-to-understand representation of the data.
